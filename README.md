@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sachith Lakshan</h1>
-<h3 align="center">🚀 Mobile App Developer | Flutter & Firebase </h3>
+<h3 align="center">📱 Mobile App Developer | Flutter & React Native </h3>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I’m a passionate mobile app developer from Sri Lanka 🇱🇰 who loves building clean, fast, and scalable cross-platform apps using Flutter. I’m currently learning advanced state management with Riverpod, clean architecture, and performance optimization techniques. I also enjoy working on UI/UX design, Firebase rules, and adding smooth animations to bring my apps to life.
+I’m a passionate mobile app developer who loves building clean, fast, and scalable cross-platform apps using Flutter and React Native. I’m currently learning native development with Java and Kotlin.
 
 ---
 
@@ -38,15 +38,7 @@ I’m a passionate mobile app developer from Sri Lanka 🇱🇰 who loves buildi
 
 ### 📫 Let’s Connect
 
-- 📧 Email: `sachithlakshan.dev@gmail.com`  
-- 🔗 LinkedIn: [linkedin.com/in/sachithlakshan](https://linkedin.com/in/sachithlakshan)
+- 📧 Email: `vidusens@gmail.com`  
+- 🔗 LinkedIn: [www.linkedin.com/in/lakshan-vidusen](www.linkedin.com/in/lakshan-vidusen)
 
 ---
-
-### 💡 Fun Fact
-
-> “I don’t just build apps — I build smooth, functional **experiences** people actually want to use.” 🚀
-
----
-
-<!-- Customize more below if you want stats or dynamic content later -->
