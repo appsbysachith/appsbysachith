@@ -32,7 +32,7 @@ I’m a passionate mobile app developer who loves building clean, fast, and scal
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🔐 **Private Chat App** | Firebase-secured real-time messaging with contact-based permissions | Flutter, Firebase, Riverpod |
-| ✅ **ToDo App** | Offline-first daily task manager with notifications and clean UI | Flutter, Local Storage |
+
 
 ---
 
