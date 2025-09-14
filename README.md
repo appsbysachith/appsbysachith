@@ -37,8 +37,7 @@ I’m a passionate mobile app developer who loves building clean, fast, and scal
 ---
 
 ### 📫 Let’s Connect
-
-- 📧 Email: `vidusens@gmail.com`  
+ 
 - 🔗 LinkedIn: [linkedin.com/in/lakshan-vidusen](https://www.linkedin.com/in/lakshan-vidusen)
 
 ---
