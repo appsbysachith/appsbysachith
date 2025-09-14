@@ -32,6 +32,7 @@ I’m a passionate mobile app developer who loves building clean, fast, and scal
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🔐 **Private Chat App** | Firebase-secured real-time messaging with contact-based permissions | Flutter, Firebase, Riverpod |
+| 🔐 **Job Application Platform** | A full-stack job search and application app with user authentication, job filtering, saving, and applying features. | React Native, Node.js, Express, MongoDB |
 
 
 ---
